@@ -1,7 +1,3 @@
-install.packages("dplyr")
-install.packages("tidyverse")
-install.packages('lubridate')
-
 library(dplyr)
 library(tidyverse)
 library(lubridate)
