@@ -1,2 +1,3 @@
 # BOLT-Datathon-2024
-Code for BOLT Datathon 2024, most things should be labelled
+Code and other stuff for BOLT Datathon 2024
+Narrowly missed out on finals, unfortunately.
